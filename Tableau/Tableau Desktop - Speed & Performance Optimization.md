@@ -1,4 +1,4 @@
-# Tableau Desktop - Speed & Performance Optimization.md
+# Tableau Desktop - Speed & Performance Optimization
 
 Course: https://www.udemy.com/course/tableau-desktop-speed-performance/
 This summary was created by GPT4.

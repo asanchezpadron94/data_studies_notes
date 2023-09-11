@@ -1,7 +1,9 @@
 # Tableau Desktop - Speed & Performance Optimization
 
 Course: https://www.udemy.com/course/tableau-desktop-speed-performance/
+
 This summary was created by GPT4.
+
 
 ## Performance Optimization
 ### Why is performance so important
@@ -1183,9 +1185,3 @@ In this segment, the intricacies of rendering on Tableau Server are discussed, f
   - **Awareness**: Understanding the nuances of these rendering methods is pivotal in developing dashboards, helping to align the rendering approach with the dashboard's complexity and the device specifications for optimal performance.
 
 In the upcoming steps of the course, leverage this knowledge to optimize the performance of your dashboards in Tableau Server effectively.
-
-## Wrapping Up
-
-### Key Performance Takeways
-
-![[Screenshot 2023-09-10 at 9.59.54 PM.png]]

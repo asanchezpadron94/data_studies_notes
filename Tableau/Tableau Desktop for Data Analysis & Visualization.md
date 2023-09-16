@@ -1,3 +1,10 @@
+# Tableau Desktop for Data Analysis & Visualization
+
+Course: https://www.udemy.com/course/up-running-with-tableau-desktop/
+
+This summary was created by GPT4.
+
+
 ## Introducing Tableau Desktop
 
 ### Meet Tableau Desktop

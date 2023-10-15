@@ -1,3 +1,10 @@
+# Looker - Complete Guide to Google Looker - LookML Developer
+
+Course: https://www.udemy.com/course-dashboard-redirect/?course_id=4483022
+
+This summary was created by GPT4.
+
+
 ## Introduction
 
 ### What is Looker?
